@@ -1,0 +1,6 @@
+This is 1st git practical
+
+commands:
+1.git init
+2.ls
+3.
