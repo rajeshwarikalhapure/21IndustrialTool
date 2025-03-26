@@ -1,2 +1,2 @@
 Difference between Staging areas and Working areas.
-Staging area VS Woking areas
+Staging area VS Woking areas.
